@@ -9,14 +9,18 @@
 
 
 
-
 ###
-<h1 align="center">Привет 👋, меня зовут Василий!</h1>
+<h1 align="center">Привет <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />, меня зовут Василий!</h1>
 
 <div align="center">
 <a href="https://t.me/Vasily_Ermolaev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+
+<div align="center">
+<a href="https://github.com/VasilyErm" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
 
 <div align="center">
@@ -67,7 +71,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/VasilyErm" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
@@ -77,9 +81,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilyErm&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
- 
+
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=VasilyErm&&style=flat-square" align="center" />
-</div>  
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=vasilyerm&label=Profile%20views&color=0e75b6&style=flat" alt="vasilyerm" /> </a>
 
