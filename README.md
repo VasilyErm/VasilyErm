@@ -4,14 +4,6 @@
   <img height="300" width="600" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 </div>
 
-###
-
-
-
-
-###
-<h1 align="center">Привет <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />, меня зовут Василий!</h1>
-
 <div align="center">
 <a href="https://t.me/Vasily_Ermolaev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
@@ -26,9 +18,20 @@
 <div align="center">
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=vasilyerm&label=Profile%20views&color=0e75b6&style=flat" alt="vasilyerm" /> </a>
 
+
 ###
 
 
+
+
+###
+<h1 align="center">Привет <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />, меня зовут Василий!</h1>
+
+
+
+###
+
+### :man_technologist: About Me :
 Меня зовут Василий, я начинающий QA Engineer 🐞  
   
 
